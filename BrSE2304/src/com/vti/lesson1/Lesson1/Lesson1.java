@@ -1,4 +1,4 @@
-package com.vti.lesson1;
+package com.vti.lesson1.Lesson1;
 
 public class Lesson1 {
     public static void main(String[] args) {
