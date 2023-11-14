@@ -5,6 +5,7 @@ package com.vti.lesson1.Lesson4;
  */
 public class Exercise1 {
     // Đề bài tạo menu sử dụng switch case với giá trị nhập vào từ bàn phím để tạo menu tính diện tich các hình
+
     // 1. Hình vuông
     // 2. Hình tròn
     // 3. Hình tam giác

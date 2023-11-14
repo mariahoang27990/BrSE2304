@@ -60,7 +60,25 @@ public class Lesson1 {
         System.out.println("check bằng gì đây: " + check);
 
             System.out.println("s == p");
+            // Toán tử logic: AND, OR, NOT
+        // AND: return true nếu cả 2 biểu thức đều đúng
+//        int x = 1;
+//        int y = 2;
+//        if ((x==1) && (y==1)) { //if (true && true)
+//            System.out.println("Giá trị của x và y là bằng nhau");
+//        } else {
+//            System.out.println("Giá trị của x và y khác nhau");
+//        }
 
+        int x = 1;
+        int y = 1;
+        if ((x==1) || (y==1)) { //if (true && true)
+            System.out.println("Giá trị của x và y đều không bằng nhau");
+        } else {
+            System.out.println("Giá trị của x và y bằng nhau và bằng 1");
+        }
+        // Kết luận: toán tử && chỉ trả ra giá trị true khi cả 2 biểu thức đều là biểu thức đúng (true).
+        // Chỉ cần 1 biểu thức sai thì giá trị của toán tử sẽ là false
         }
         }
 
